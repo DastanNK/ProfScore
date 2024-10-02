@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ProfScore.NoActionBar" parent="android:Theme.Material.Light.NoActionBar"/>
+    <style name="Theme.ProfScore.Splash" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Set the background color for the splash screen -->
+        <item name="android:windowSplashScreenBackground">@color/white</item>
+
+        <!-- Set the logo for the splash screen -->
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/trace</item>
+
+        <!-- Optional: Set the animation duration -->
+        <item name="android:windowSplashScreenAnimationDuration">1000</item>
+
+    </style>
+</resources>

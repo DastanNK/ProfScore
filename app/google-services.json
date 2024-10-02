@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252864003909",
+    "project_id": "profscore-ad048",
+    "storage_bucket": "profscore-ad048.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252864003909:android:ba3668c934f2cac76cc82c",
+        "android_client_info": {
+          "package_name": "com.dastan.profscore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5tZ0cWmeyMCBRJF_D0NJ3RYt5e8Ip2jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
